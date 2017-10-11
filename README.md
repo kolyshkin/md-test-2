@@ -295,6 +295,53 @@ space
 ### with --- typographic ... symbols
 
 ...
-see (--foobar)[<span class="pl-c1">#option---foobar</span>] option below.
-...
-<span class="pl-c1">##</span> Option --foobar</pre></div>
+see [--foobar](#option---foobar) option below.
+
+
+here
+
+to
+
+have
+
+more
+
+vertical
+
+space
+
+
+some
+
+text
+
+here
+
+to
+
+have
+
+more
+
+vertical
+
+space
+
+
+some
+
+text
+
+here
+
+to
+
+have
+
+more
+
+vertical
+
+space
+
+## Option --foobar
